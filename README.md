@@ -8,7 +8,7 @@ Official repository for corporate identity, trademark assets, and technical infr
 - **Founder & CEO:** Hakan Oliveira
 - **Original Creation Date:** 2026
 
-![New Horizon Brand Asset](nh-brand-identity.jpg)
+Logo NH.jpg
 
 ---
 
